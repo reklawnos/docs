@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["MatchType","Matching type for experiments."]],"struct":[["Experiment","A struct for building Dexter experiments."],["ExperimentResult","Result of an experiment."],["SubjectResult","Result for a subject in an experiment."]],"trait":[["Publisher","Trait for publishers, which are used by Dexter to store results of experiments."]]});
